@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishathakurata" alt="dishathakurata" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/dishathakurata" target="blank"><img src="https://img.shields.io/linkedin/follow/dishathakurata?logo=linkedin&style=for-the-badge" alt="dishathakurata_" /></a> </p>
-
 - 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **dishathakurata@gmail.com**
