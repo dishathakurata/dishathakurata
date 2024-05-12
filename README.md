@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishathakurata" alt="dishathakurata" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dishathakurata_" target="blank"><img src="https://img.shields.io/twitter/follow/dishathakurata_?logo=twitter&style=for-the-badge" alt="dishathakurata_" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/dishathakurata" target="blank"><img src="https://img.shields.io/linkedin/follow/dishathakurata?logo=linkedin&style=for-the-badge" alt="dishathakurata_" /></a> </p>
 
 - 🌱 I’m currently learning **AI/ML**
 
